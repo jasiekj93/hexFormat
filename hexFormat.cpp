@@ -1,5 +1,5 @@
 /**
- * @file Main.cpp
+ * @file hexFormat.cpp
  * @author Adrian Szczepanski
  * @date 17-08-2022
  * @brief 
